@@ -1,5 +1,3 @@
-Entendido, si tu producto es el servidor web que proporciona la funcionalidad de la lista de tareas, aquí tienes una descripción más simplificada y en lenguaje coloquial para que las personas entiendan:
-
 ¿Qué es mi producto y para qué sirve?
 Mi producto es un "servidor web" que es como un camarero para las páginas web. Cuando visitas un sitio web, como una lista de tareas en línea, el servidor web es el encargado de servirte la página y asegurarse de que funcione correctamente. Es como el motor detrás de las páginas web que ves en tu navegador.
 
